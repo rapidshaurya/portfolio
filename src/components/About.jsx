@@ -40,11 +40,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at SRM University and multilingual speaker with a passion
-        for ethical hacking, artificial intelligence, and neural language processing. I am looking
-        to join a company that values innovation, collaboration, and continuous learning and am
-        confident that my enthusiasm and drive will help me succeed in any role that leverages my
-        passion for technology.
+        I am a Backend Developer with a passion for creating efficient and scalable applications. I have a strong foundation in programming languages such as C, C++, Rust. I am also proficient in web development technologies including HTML, CSS, and JavaScript. My experience includes working with frameworks like React.js and Node.js, as well as version control systems like Git. I am always eager to learn new technologies and improve my skills.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
