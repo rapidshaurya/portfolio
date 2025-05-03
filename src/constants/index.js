@@ -56,40 +56,47 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: "AI/ML Intern",
-    company_name: "EduSkill Foundation | AWS Academy | AICTE",
-    icon: eduskill,
+    title: "Senior Engineer",
+    company_name: "Rapid Innovation",
+    icon: edunet, // You may want to add a company logo to assets
     iconBg: "#161329",
-    date: "Sep 2023 - Nov 2023",
+    date: "March 2023 - Present",
     points: [
-      "Acquired hands-on knowledge of AWS Cloud Foundation, delving into cloud infrastructure, services, and deployment.",
-      "also gaining a solid foundation in Machine Learning, covering topics like algorithms, data analysis, and model building.",
+      "Collaborated with 9-person team to develop Xstrela Project marketplace for trading web3 game assets",
+      "Implemented Google/Meta OAuth for social media sign-up/sign-in functionality",
+      "Developed Admin Service for platform management",
+      "Created Quest Service to boost user engagement through rewards system",
+      "Built cron service to pull NFT collections from Reservoir API",
+      "Implemented WebSocket/webhooks for real-time NFT activity tracking",
     ],
   },
   {
-    title: "Mathwork Ai Virtual Intern",
-    company_name: "Mathwork | AICTE",
-    icon: mathwork,
+    title: "Associate Software Developer",
+    company_name: "Rapid Innovation",
+    icon: edunet, // You may want to add a company logo to assets
     iconBg: "#161329",
-    date: "May 2023 - Sep 2023",
+    date: "August 2022 - March 2023",
     points: [
-      "Completed virtual internship, gaining a strong foundation in MATLAB, including data analysis and processing.",
-      "Acquired practical skills in image and signal processing, including segmentation, batch processing, and spectral analysis.",
-      "Developed expertise in machine learning models for clustering, classification, and regression, and customized deep learning techniques for image classification.",
+      "Led backend/desktop development for RapidShot employee monitoring tool",
+      "Worked with technologies: Rust, Actix-web, Tauri, MongoDB, HTML/CSS, JavaScript",
     ],
   },
   {
-    title: "Artificial Intelligence Intern",
-    company_name: "Edunet Foundation | IBM SkillsBuild | AICTE",
-    icon: edunet,
+    title: "Rust Intern",
+    company_name: "Rapid Innovation",
+    icon: edunet, // You may want to add a company logo to assets
     iconBg: "#161329",
-    date: "June 2023 - July 2023",
+    date: "April 2022 - August 2022",
     points: [
-      "Engineered a comprehensive Mental Health Fitness Tracker ML model utilizing Python and scikit-learn.",
-      "Maximized the model's performance by refining model parameters and employing ensemble methods, yielding an outstanding accuracy percentage of 98.50%.",
-      "Leveraged 12 regression algorithms to attain precise outcomes in analyzing and predicting mental fitness levels across 150+ countries.",
+      "Developed ToDo list and Linkshare projects",
+      "Integrated smart contracts using ether-rs crate",
+      "Deployed contracts via Remix on Ganache",
+      "Built CLI for Uniswap token exchange",
     ],
   },
+
+ 
+  
 ];
 
 export const projects = [

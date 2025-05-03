@@ -40,7 +40,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Backend Developer with a passion for creating efficient and scalable applications. I have a strong foundation in programming languages such as C, C++, Rust. I am also proficient in web development technologies including HTML, CSS, and JavaScript. My experience includes working with frameworks like React.js and Node.js, as well as version control systems like Git. I am always eager to learn new technologies and improve my skills.
+        I am a Senior Engineer at Rapid Innovation with expertise in Rust backend development and AI prompting. I specialize in developing efficient and scalable applications using Rust, with experience in technologies like Actix-web, Kafka, PostgreSQL, and Redis. I'm passionate about creating robust solutions and consistently delivering high-quality code. With a BTech in Electrical Engineering and significant experience in both backend development and blockchain technology, I bring a comprehensive skill set to every project.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

@@ -15,13 +15,14 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className="text-[#915EFF]">Shaurya</span>
+            Hi, I'm <span className="text-[#915EFF]">Shaurya Singh</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I do
+            Senior Engineer at Rapid Innovation
+            <br />
             <Typewriter
               options={{
-                strings: ["Rust Backend", "Ai prompting"],
+                strings: ["Rust Backend Development"],
                 autoStart: true,
                 loop: true,
                 loopCount: Infinity,
